@@ -20,7 +20,7 @@ This README provides an overview of the implementation and instructions for runn
 The following dependencies are required to run the code:
 
 - Python (version 3.7)
-- TensorFlow 
+- TensorFlow(1.x)
 - NumPy
 - Pandas
 
